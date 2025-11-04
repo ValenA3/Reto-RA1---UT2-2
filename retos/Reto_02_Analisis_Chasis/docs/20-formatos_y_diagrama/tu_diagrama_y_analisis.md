@@ -1,6 +1,6 @@
 # Formatos de chasis: diagrama y análisis
 
-**Formatos elegidos:** ______________________
+**Formatos elegidos:** Torre Completa vs Mini Torre
 
 ## Diagrama
 ![Comparativa de formatos](../../assets/img/20-formatos_y_diagrama/diagrama_01.png "Comparativa de dimensiones")
