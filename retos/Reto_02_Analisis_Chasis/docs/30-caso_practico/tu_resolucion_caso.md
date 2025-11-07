@@ -1,4 +1,4 @@
-# Caso práctico — Recomendación de chasis
+# Caso práctico — Recomendación de Refrigeracion
 
 ## 1) Formato recomendado
 **Elección:**  
