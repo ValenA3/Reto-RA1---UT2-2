@@ -1,14 +1,28 @@
 # Reto 02 — Análisis de Chasis (UT2 · RA1)
 
-> **Instrucciones:** Copia aquí el contenido final de cada sección (puedes mantener los enlaces relativos a imágenes).
 
-COPIAR: Portada, indiccee y intorducción
 
-## 1) Tabla comparativa de materiales
+**Alumno/a:** Andriiash Andriyash Valentin<br>
+**Grupo:**  1ºASIR<br>
+**Fecha:**  08/11/25<br>
+**Repositorio:** [ (URL)](https://github.com/ValenA3/Reto-RA1---UT2-2.git)
+
+
+# Índice
+
+1. [Portada](00-portada.md)
+2. [Introducción](02-introduccion.md)
+3. [Tabla de materiales](10-tabla_materiales/tu_tabla_materiales.md)
+4. [Formatos y diagrama](20-formatos_y_diagrama/tu_diagrama_y_analisis.md)
+5. [Caso práctico](30-caso_practico/tu_resolucion_caso.md)
+6. [Reflexión personal](40-reflexion_personal/tu_reflexion.md)
+7. [Entrega y checklist](99-entrega_y_checklist.md)
+# Introducción
+En este documento analizamos **materiales** (acero SECC, aluminio, plástico, vidrio templado y compuestos) y **formatos** de chasis (p. ej., Torre Completa vs Mini Torre), para entender cómo afectan a **capacidad de componentes**, **refrigeración** y **experiencia de usuario**. Finalmente, resolvemos un **caso práctico** de recomendación.
+
 # Tabla comparativa de materiales de chasis
-
 (Completa esta tabla partiendo de `plantilla_tabla.md`)
-
+## 1) Tabla comparativa de materiales
 | Material            | Ventajas (3–4)                               | Desventajas (2–3)                          | Aplicaciones comunes (ejemplos)                  |
 |--------------------|-----------------------------------------------|--------------------------------------------|--------------------------------------------------|
 | Acero SECC |<b>Resistencia a la corrosión:</b> El recubrimiento de zinc electrodepositado ofrece una protección robusta contra la oxidación y la corrosión en condiciones atmosféricas.<br> <b>Maquinabilidad:</b> Se puede trabajar con facilidad, lo que lo hace apto para procesos como el estampado y el punzonado.<br> <b>Aplicaciones comunes:</b> Se utiliza ampliamente en electrodomésticos, chasis de computadoras, materiales de construcción y otros componentes metálicos.<br> <b>Conformabilidad:</b> Es fácil de doblar y darle forma sin que se agriete, lo que lo hace adecuado para aplicaciones que requieren un diseño preciso. |<b>Sensibilidad a la corrosión:</b> El acero puede oxidarse si no está protegido adecuadamente, un problema agravado en ambientes húmedos o con presencia de cloruros, como en zonas costeras.<br><b>Pérdida de resistencia:</b> Las altas temperaturas reducen drásticamente la resistencia del acero, lo que puede provocar deformaciones y colapsos.<br><b>Necesidad de mano de obra especializada:</b> El montaje y manejo del acero requieren mano de obra capacitada y herramientas específicas.| <b>Industria automotriz</b> (paneles de carrocería, chasis)<br><b>Electrodomésticos</b> (carcasas de neveras, lavadoras) <br><b>Fabricación de componentes de metal</b> como armarios, estanterías y equipos HVAC.|
