@@ -3,7 +3,7 @@
 **Formatos elegidos:** Torre Completa vs Mini Torre
 
 ## Diagrama
-![Comparativa de ranuras](retos/Reto_02_Analisis_Chasis/docs/20-formatos_y_diagrama/draw.png "Comparativa de ranuras")
+![Diagrama](retos/Reto_02_Analisis_Chasis/docs/20-formatos_y_diagrama/draw.png)
 
 ## Impacto del tamaño
 - **Capacidad de componentes:**<br>
